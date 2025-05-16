@@ -13,15 +13,15 @@ GennE is an innovative application leveraging generative AI to extract, analyze,
 
 ## Table of Contents
 
-- [Features](#-features)
-- [System Architecture](#-system-architecture)
-- [Prerequisites](#-prerequisites)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Key Components](#-key-components)
-- [Demo](#-demo)
-- [Authors](#-authors)
-- [Acknowledgements](#-acknowledgements)
+- [Features](##-features)
+- [System Architecture](##-system-architecture)
+- [Prerequisites](##-prerequisites)
+- [Installation](##-installation)
+- [Usage](##-usage)
+- [Key Components](##-key-components)
+- [Demo](##-demo)
+- [Authors](##-authors)
+- [Acknowledgements](##-acknowledgements)
 
 ## Features
 
