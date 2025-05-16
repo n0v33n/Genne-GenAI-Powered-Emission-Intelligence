@@ -201,7 +201,7 @@ The interactive demo allows users to:
 
 - 📘 **Blog Post:** [Gen AI Capstone Insights – A Deep Dive](https://medium.com/@samudraladnkumar/gen-ai-powered-emission-intelligence-system-339ceaac8fc8)
 - 📺 **YouTube Video:** [Watch the Capstone Project Overview](https://youtu.be/QSTWjqR_6A4)
-- 📺 **Kaggle Notebook:** [Notebook Overview]([https://youtu.be/QSTWjqR_6A4](https://www.kaggle.com/code/dnkumars/genne/))
+- 📺 **Kaggle Notebook:** [Notebook Overview](https://www.kaggle.com/code/dnkumars/genne/)
 
 ## License
 
