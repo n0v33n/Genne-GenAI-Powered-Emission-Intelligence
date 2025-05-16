@@ -75,7 +75,7 @@ The system employs a multi-stage pipeline:
    GOOGLE_API_KEY = UserSecretsClient().get_secret("GOOGLE_API_KEY")
    ```
 
-## 📊 Usage
+## Usage
 
 ### Running the complete pipeline
 
@@ -108,7 +108,7 @@ The conversational agent can answer questions about emissions data:
 - "Interpret the emission map"
 - "Compare emissions between [city1] and [city2]"
 
-## 🧩 Key Components
+## Key Components
 
 ### PDF Processing
 ```python
@@ -183,13 +183,13 @@ The interactive demo allows users to:
 3. Understand relationships between data points
 4. Gain insights through AI-powered analysis
 
-## 👥 Authors
+## Authors
 
 - [Samudrala Dinesh Naveen Kumar](https://www.kaggle.com/dnkumars)
 - [Morpho23](https://www.kaggle.com/morpho23)
 - [Samudrala Hareesh](https://www.kaggle.com/samudralahareesh)
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [Kaggle](https://www.kaggle.com/) for the competition platform
 - [Google](https://ai.google.dev/) for the Gemini API
